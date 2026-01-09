@@ -1,6 +1,4 @@
 # ANN-Churn-Modeling
-
-# 🧠 Customer Churn Prediction Web Application
 This project is a Streamlit-based web application designed to predict customer churn using a trained machine learning model. The application allows users to input their data, which is then preprocessed and used to make predictions based on a set of input features, including geography, gender, age, balance, credit score, and others. The core features of the project include data preprocessing, model training, and prediction, making it a comprehensive solution for customer churn prediction.
 
 ## 🚀 Features
