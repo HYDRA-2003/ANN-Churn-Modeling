@@ -47,6 +47,4 @@ This will start the Streamlit server and open the application in your default we
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
 
-A huge thanks to everyone who has contributed to this project! Your support and contributions are greatly appreciated.
 
-This is written by [readme.ai](https://readme-generator-phi.vercel.app/)
